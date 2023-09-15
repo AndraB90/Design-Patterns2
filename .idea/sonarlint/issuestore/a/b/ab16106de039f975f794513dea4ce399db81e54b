@@ -1,0 +1,9 @@
+
+o	java:S116"TRename this field "MIN_VALUE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×–Ì*8Ô«Ï–1
+=
+java:S1170"!Make this final field static too.(×–Ì*8Ö«Ï–1
+U	java:S106
+"9Replace this use of System.out or System.err by a logger.(äÖ¬ç8à«Ï–1
+m
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(Á¢£8ã«Ï–1
+T	java:S106"9Replace this use of System.out or System.err by a logger.(Á¢£8ã«Ï–1

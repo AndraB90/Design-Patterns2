@@ -1,0 +1,7 @@
+
+y	java:S116"]Rename this field "MAX_DAYS_AUTHORITY" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¦´ëè8³Ë—Î–1
+>
+java:S1170"!Make this final field static too.(¦´ëè8´Ë—Î–1
+n
+java:S3457"Q%n should be used in place of \n to produce the platform-specific line separator.(¼Ó€‘8Ä‘šÎ–1
+U	java:S106"9Replace this use of System.out or System.err by a logger.(¼Ó€‘8˜Î–1
